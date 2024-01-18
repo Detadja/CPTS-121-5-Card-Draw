@@ -1,0 +1,9 @@
+﻿  function.c
+C:\Users\denis\Documents\WSU\Computer Science\Coding\Programming Assignment\PA 7\PA 7\function.c(390,21): warning C4028: formal parameter 1 different from declaration
+C:\Users\denis\Documents\WSU\Computer Science\Coding\Programming Assignment\PA 7\PA 7\function.c(396,45): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\denis\Documents\WSU\Computer Science\Coding\Programming Assignment\PA 7\PA 7\function.c(405,24): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\denis\Documents\WSU\Computer Science\Coding\Programming Assignment\PA 7\PA 7\function.c(407,28): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\denis\Documents\WSU\Computer Science\Coding\Programming Assignment\PA 7\PA 7\function.c(418,24): warning C4047: 'function': 'int **' differs in levels of indirection from 'int [5]'
+C:\Users\denis\Documents\WSU\Computer Science\Coding\Programming Assignment\PA 7\PA 7\function.c(418,24): warning C4024: 'sort_hand': different types for formal and actual parameter 2
+C:\Users\denis\Documents\WSU\Computer Science\Coding\Programming Assignment\PA 7\PA 7\function.c(347): warning C4715: 'pair': not all control paths return a value
+  PA 7.vcxproj -> C:\Users\denis\Documents\WSU\Computer Science\Coding\Programming Assignment\PA 7\Debug\PA 7.exe
